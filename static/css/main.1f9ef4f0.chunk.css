@@ -7,7 +7,7 @@ body{margin:0}a{color:#fff;text-transform:uppercase}
 .topnav.responsive a.icon{position:absolute;right:0;top:0}
 .topnav.responsive a{float:none;display:block;text-align:center}}
 .Navbar{margin-right:0;margin-left:4px}.body-default{background:#000}
-.Main{border-radius:0;-box-shadow:1;border:0;min-height:100px;font-family'Courier New', Courier, monospace;font-size:22px;color:#fff;text-shadow:2px 2px #000;margin-bottom:0;padding:0 20px}.about,
+.Main{border-radius:0;-box-shadow:1;border:0;min-height:100px;font-family:'Courier New', Courier, monospace;font-size:22px;color:#fff;text-shadow:2px 2px #000;margin-bottom:0;padding:0 20px}.about,
 .Main{text-align:center}
 .about{margin-top:20vh}
 .fire_image{background:URL(/my-app/static/media/david.0caf6ecd.png);width:600px;height:500px;background-size:auto;background-position:50%;border-radius:50%;margin-top:5vh;width:55%}
